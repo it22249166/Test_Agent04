@@ -1,15 +1,6 @@
 import {
   AiOutlineFacebook,
-  AiOutlineTwitter,
-  AiOutlineInstagram,
-} from "react-icons/ai";
-
-export default function Footer() {
-  return (
-    <footer className="w-screen bg-gray-900 text-white py-10">
-      <div className="max-w-6xl mx-auto flex flex-wrap justify-center md:justify-between px-6 md:px-12 gap-8">
-        {/* Company Section */}
-        <div className="w-full sm:w-[45%] md:w-1/4 text-center md:text-left">
+assName="w-full sm:w-[45%] md:w-1/4 text-center md:text-left">
           <h1 className="text-xl font-semibold mb-4">Company</h1>
           <ul className="space-y-2 text-gray-400">
             <li>
